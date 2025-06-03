@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Specific{
+    padding-left: 10px;
+}
+.h1{
+    padding-top: 5px;
+     padding-left: 5px;
+}
+#btn{
+    margin: 15px;
+}
